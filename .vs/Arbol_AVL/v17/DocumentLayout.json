@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|c:\\users\\manue\\desktop\\udb\\ped\\arbol_avl\\dibujaavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|solutionrelative:dibujaavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|c:\\users\\manue\\desktop\\udb\\ped\\arbol_avl\\alv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|solutionrelative:alv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|c:\\users\\manue\\desktop\\udb\\ped\\arbol_avl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|c:\\users\\manue\\desktop\\udb\\ped\\arbol_avl\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|c:\\users\\manue\\desktop\\udb\\ped\\arbol_avl\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3473C553-C05A-4EB1-9974-2B98101BB262}|Arbol_AVL.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DibujaAVL.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\DibujaAVL.cs",
+              "RelativeDocumentMoniker": "DibujaAVL.cs",
+              "ToolTip": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\DibujaAVL.cs",
+              "RelativeToolTip": "DibujaAVL.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIA+wFkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:24:19.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ALV.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\ALV.cs",
+              "RelativeDocumentMoniker": "ALV.cs",
+              "ToolTip": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\ALV.cs",
+              "RelativeToolTip": "ALV.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAADgvyMBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:11:59.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:32:18.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:29:59.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-24T03:29:57.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\manue\\Desktop\\UDB\\PED\\Arbol_AVL\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:28:47.266Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\bin\Debug\net9.0-windows\Arbol_AVL.exe
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\bin\Debug\net9.0-windows\Arbol_AVL.deps.json
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\bin\Debug\net9.0-windows\Arbol_AVL.runtimeconfig.json
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\bin\Debug\net9.0-windows\Arbol_AVL.dll
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\bin\Debug\net9.0-windows\Arbol_AVL.pdb
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\Arbol_AVL.Form1.resources
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\Arbol_AVL.csproj.GenerateResource.cache
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\Arbol_AVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\Arbol_AVL.AssemblyInfoInputs.cache
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\Arbol_AVL.AssemblyInfo.cs
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\Arbol_AVL.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\Arbol_AVL.dll
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\refint\Arbol_AVL.dll
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\Arbol_AVL.pdb
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\Arbol_AVL.genruntimeconfig.cache
+C:\Users\manue\Desktop\UDB\PED\Arbol_AVL\obj\Debug\net9.0-windows\ref\Arbol_AVL.dll
